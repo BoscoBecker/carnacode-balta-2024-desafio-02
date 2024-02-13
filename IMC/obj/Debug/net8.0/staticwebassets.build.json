@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9PXqIaYP8nVdHw5mCXvCpWF80GLwm85qSmSYiOeMH/k=",
+  "Hash": "+tFa+iO812x5dL+31xaFoHsy9kX5tNvrrgl8JwGCmTc=",
   "Source": "IMC",
   "BasePath": "_content/IMC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "IMC\\wwwroot",
       "Source": "IMC",
-      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\",
       "BasePath": "_content/IMC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMC.styles.css",
+      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMC.styles.css",
       "SourceId": "IMC",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/IMC",
       "RelativePath": "IMC.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMC.styles.css"
+      "OriginalItemSpec": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMC.styles.css"
     },
     {
-      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMC.bundle.scp.css",
+      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMC.bundle.scp.css",
       "SourceId": "IMC",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/IMC",
       "RelativePath": "IMC.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMC.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMC.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\app.css",
+      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\app.css",
       "SourceId": "IMC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\",
       "BasePath": "_content/IMC",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\assets\\app.fig",
+      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\assets\\app.fig",
       "SourceId": "IMC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\",
       "BasePath": "_content/IMC",
       "RelativePath": "assets/app.fig",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\app.fig"
     },
     {
-      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\assets\\icon.png",
+      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\assets\\icon.png",
       "SourceId": "IMC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\",
       "BasePath": "_content/IMC",
       "RelativePath": "assets/icon.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icon.png"
     },
     {
-      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\assets\\icon-no-bg.png",
+      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\assets\\icon-no-bg.png",
       "SourceId": "IMC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\",
       "BasePath": "_content/IMC",
       "RelativePath": "assets/icon-no-bg.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icon-no-bg.png"
     },
     {
-      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\assets\\texto-para-publicacao-nas-redes-sociais.txt",
+      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\assets\\texto-para-publicacao-nas-redes-sociais.txt",
       "SourceId": "IMC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\",
       "BasePath": "_content/IMC",
       "RelativePath": "assets/texto-para-publicacao-nas-redes-sociais.txt",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\texto-para-publicacao-nas-redes-sociais.txt"
     },
     {
-      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "IMC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\",
       "BasePath": "_content/IMC",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "IMC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\",
       "BasePath": "_content/IMC",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\favicon.png",
+      "Identity": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\favicon.png",
       "SourceId": "IMC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\",
       "BasePath": "_content/IMC",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
