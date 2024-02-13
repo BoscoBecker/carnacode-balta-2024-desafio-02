@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3DcGIomaSUYNvSSTGy4gmM1KU4UoqttHXUr9HkntCtYSmwNCH5sVuT1ufso1VXe52bxNyAWoG8KNgz7/y/GD4A==",
+  "dgSpecHash": "zWi+ueh+KItXVWvdy1txeE1kkUvuvQruSrPLyDSe95rLC6Jr43dw6ActYXoKvQxIAV8f4U7eKfR0EaGrHdW+0Q==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02-Novo\\IMC\\IMC\\IMC.csproj",
+  "projectFilePath": "D:\\Projetos\\C#\\Carnaval\\carnacode-balta-2024-desafio-02\\IMC\\IMC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\8.0.1\\microsoft.aspnetcore.components.webassembly.server.8.0.1.nupkg.sha512",
     "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.1\\microsoft.entityframeworkcore.8.0.1.nupkg.sha512",
